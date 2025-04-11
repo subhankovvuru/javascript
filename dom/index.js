@@ -1,6 +1,6 @@
 // // dom part1
 
-// // these are the parts of windpow
+// // these are the parts of window
 // // console.log("hello")
 // // window.console.log("hello1");
 // // window.alert("hello2");
@@ -22,7 +22,7 @@
 
 // // queryselectorall
 
-// let p=document.querySelectorAll("p");
+// let p=document.querySelectorAll(".p");
 // p[0].style.color="red"
 // p[0].innerHTML=`
 // <p>subhan</p>

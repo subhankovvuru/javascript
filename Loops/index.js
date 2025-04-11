@@ -8,11 +8,13 @@
 // let sum=0;
 // for(let i=1;i<=5;i++){
 //     sum=sum+i;
-//     // console.log(i);
+//     console.log(i);
 // }
 // console.log(sum);  // o/p=15
 
 // // product of 1 to 5
+
+
 // let prodt=1;
 // for(let i=1;i<=5;i++){
 //     prodt*=i
@@ -21,7 +23,7 @@
 
 
 
-// let arr = ["goutham","subhan","hi","hello"];
+// let arr = ["goutham","subhan","yihtish","naveen"];
 // let z=1;
 // for( let z=1;z<arr.length;z++){
 //     console.log(z);
@@ -88,7 +90,7 @@
 //     item:"pen",
 //     price:10,
 // }
-// let output=`"the cost of ${obj.item} is ${obj.price} rupees`;
+// let output=`the cost of ${obj.item} is ${obj.price} rupees`;
 // console.log(output);
 
 
@@ -145,8 +147,8 @@
 
 
 
-let i=2
-do{
-    console.log("hi");
-    i++
-}while(i>10);
+// let i=2
+// do{
+//     console.log("hi");
+//     i++
+// }while(i>10);

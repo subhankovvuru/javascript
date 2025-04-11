@@ -14,8 +14,7 @@
  a=10
  console.log("a++=",a++) //   o/p=10
  console.log("after incerement",a) //  o/p=after incement=11
- console.log(++a);  // o/p=12
-
+ console.log(++a);  // o/p=12 // it is pre- increment
  console.log(a--)
  console.log("after decerement",a)
  console.log(--a)
